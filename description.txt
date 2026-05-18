@@ -1,0 +1,88 @@
+📚 Dorosify — Application éducative indépendante pour les élèves marocains, du Primaire au Baccalauréat.
+
+⚠️ AVIS IMPORTANT : Dorosify est une application indépendante développée par des particuliers. Elle n'est PAS affiliée, sponsorisée ou approuvée par le Ministère de l'Éducation Nationale du Maroc, ni par aucun organisme gouvernemental. Dorosify agrège et organise des contenus publics provenant de sources officielles publiquement accessibles.
+
+📌 SOURCES OFFICIELLES (sites originaux à consulter)
+• Ministère de l'Éducation Nationale du Maroc : https://www.men.gov.ma
+• Plateforme Moutamadris (portail élèves MEN) : https://moutamadris.ma
+• Portail Taalim (formation continue MEN) : https://www.taalim.ma
+
+Toute ta scolarité, en poche : cours détaillés, exercices corrigés, et examens nationaux et régionaux compilés depuis ces sources publiques officielles. Pour les documents originaux et la version la plus à jour, consulte directement les sites listés ci-dessus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ POURQUOI DOROSIFY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ 700+ examens nationaux Bac (2003 → 2025), toutes filières
+✅ Couverture complète : Sciences Math, Physique-Chimie, SVT, Lettres
+✅ Bilingue Français / العربية avec mode RTL natif
+✅ Lecture en ligne (PDF viewer intégré) ou téléchargement offline
+✅ 100% gratuit, sans inscription requise
+✅ Mode sombre pour révisions tardives
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 NIVEAUX COUVERTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎒 Primaire — 1ère à 6ème année (1AEP → 6AEP)
+📚 Collège — 1AC, 2AC, 3AC (Examens régionaux 3ème AC)
+🎓 Lycée :
+  • Tronc Commun (Sciences / Lettres)
+  • 1ère Bac : SM, PC, SVT, Lettres
+  • 2ème Bac : SM, PC, SVT, LSH
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📐 MATIÈRES DISPONIBLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Mathématiques — Limites, dérivées, suites, probabilités
+• Physique-Chimie — Mécanique, ondes, électricité, chimie organique
+• SVT (Sciences de la Vie et de la Terre)
+• Français — Œuvres au programme, comprehension, production écrite
+• اللغة العربية — البلاغة، الإعراب، النصوص الأدبية
+• English — Reading, writing, vocabulary
+• Histoire-Géographie
+• Philosophie
+• Éducation Islamique
+• Éveil Scientifique (Primaire)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📥 CE QUE TU PEUX FAIRE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📖 Lire en ligne — Viewer PDF intégré
+⬇️ Télécharger — Garde tes documents en local pour réviser hors-ligne
+🔖 Naviguer par filière — Drill-down propre par niveau, filière, matière
+🔍 Rechercher — Trouve un examen ou cours en quelques secondes
+🌙 Mode sombre — Confort visuel pour les longues sessions
+🌍 Bilingue — Bascule FR ⇄ AR en un tap
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🆓 GRATUIT, FINANCÉ PAR LA PUBLICITÉ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dorosify est et restera gratuit. L'application est financée par des publicités discrètes (bannière + interstitielles), ce qui nous permet de garder tout le contenu accessible à tous les élèves marocains.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👨‍🏫 POUR QUI ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Élèves du Primaire, Collège et Lycée au Maroc
+✓ Candidats au Baccalauréat (toutes filières)
+✓ Parents qui veulent suivre la scolarité de leurs enfants
+✓ Enseignants qui cherchent du matériel de référence
+✓ Étudiants en révisions intensives
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📞 CONTACT & SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Email : contact@dorosify.app
+• Politique de confidentialité : https://savanastore1997-hub.github.io/dorosify-legal/privacy.html
+• Conditions d'utilisation : https://savanastore1997-hub.github.io/dorosify-legal/terms.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🇲🇦 Application indépendante développée au Maroc, pour les élèves marocains.
+
+Dorosify — Toute ta scolarité, en poche.
